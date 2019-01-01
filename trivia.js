@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 var client = new Discord.Client();
 var bot = new Discord.Client();
-client.login("MzY2MjM0NjYxODU4MzEyMTky.DwyLaw.lPaANS5Qy-caYzDLWmNZ6SjzLHc", output);
+client.login("529534376522809354", output);
 bot.login("NTI5NTM0Mzc2NTIyODA5MzU0.DwyPDw.qa3OJmrzUJ-EufcPU1oYZpdv5mo", output);
 var hqchannels = ['450174797780090901', '446444693065039882','453228023240458250'];
 var cschannels = ['450174797780090901', '446444693065039882','453228023240458250'];
